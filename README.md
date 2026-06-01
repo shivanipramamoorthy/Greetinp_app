@@ -1,0 +1,1 @@
+This is a project that uses the Tkinter Library, and the main idea of this project is a simple way to greet someone. When you first open the window, it should have a button, and when you clikc the button it greets you.
